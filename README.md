@@ -7,4 +7,4 @@ Some implementation improvements:
 - Duplicates of the same ingredients are allowed in a recipe, which allows for greater flexibility in the future
 - There can be multiple delivery counters in the same game scene
 
-Refer to the lastest release for the source code and game download
+Refer to the **lastest release** for the source code and game download
