@@ -1,6 +1,6 @@
 # Kitchen-Chaos
 
-A Unity practice project built from scratch. Credits to [Code Monkey](https://www.youtube.com/watch?v=AmGSEH7QcDg) for the amazing assets and tutorial.
+A Unity practice project built from scratch that simulates Overcooked. Credits to [Code Monkey](https://www.youtube.com/watch?v=AmGSEH7QcDg) for the amazing assets and tutorial.
 
 Some implementation improvements:
 - The cutting and cooking progress will not be reset when the ingredients are taken away from the counters, which is more realistic
